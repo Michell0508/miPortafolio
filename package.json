@@ -1,0 +1,13 @@
+{
+  "name": "miPortafolio",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^5.4.10",
+    "vite-plugin-purgecss": "^0.2.2"
+  }
+}
